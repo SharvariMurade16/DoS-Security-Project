@@ -76,7 +76,7 @@ The TCP packet capture recorded 10 packets, including the TCP handshake and an H
 5. Limitations
 The experiments were conducted on localhost and were not full-scale DoS or DDoS simulations. The connection-limit configuration was added but not independently benchmarked. SYN-flood protection mechanisms were studied theoretically; no SYN-flood attack was performed.
 6. GitHub Repository
-GitHub link: [Insert your project repository URL here]
+GitHub link: [https://github.com/SharvariMurade16/DoS-Security-Project]
 The repository should contain the README, relevant source and configuration files, and any supporting screenshots or documentation required for execution.
 7. Execution Files
 The project uses Nginx configuration directives, ApacheBench commands, and tcpdump commands. These should be documented and included in the submitted project package where applicable.
